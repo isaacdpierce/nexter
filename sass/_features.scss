@@ -21,7 +21,7 @@
     width: 4.5rem;
     height: 4.5rem;
     grid-row: 1 / span 2; // -1 only works on explicit row grid
-    transform: translateY(-1rem)
+    transform: translateY(-1rem);
   }
 
   &__text {
